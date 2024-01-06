@@ -31,9 +31,9 @@ STR | DEX | PER | CHA | KNO | LCK
 * FAME
 * SIGNED CONTRACT
 
-Character Select |  In-game
-:-----:|:-----:
-![layton character select screen](https://i.imgur.com/0AusXN3.png)|![layton in-game](https://i.imgur.com/D0zqpaa.png)
+Character Select |  In-game | Chibi
+:-----:|:-----:|:-----:
+![layton character select screen](https://i.imgur.com/xlvjDFo.png)|![layton in-game](https://i.imgur.com/D0zqpaa.png)|![layton chibi](https://i.imgur.com/TLD62wN.png)
 
 *From my favourite mystery game then, to my favourite now*
 
@@ -54,6 +54,6 @@ STR | DEX | PER | CHA | KNO | LCK
 
 Character Select |  In-game | Chibi
 :-----:|:-----:|:-----:
-![shop dog character select screen](https://i.imgur.com/pfJ1Jyr.png)|![shop dog in-game](https://i.imgur.com/8YUBysY.png)|![shop dog chibi](https://i.imgur.com/fP41Noy.png)
+![shop dog character select screen](https://i.imgur.com/e2g7r4H.png)|![shop dog in-game](https://i.imgur.com/8YUBysY.png)|![shop dog chibi](https://i.imgur.com/fP41Noy.png)
 
 *woof!*
