@@ -52,8 +52,8 @@ STR | DEX | PER | CHA | KNO | LCK
 * BRANCH
 * DOG TREATS
 
-Character Select |  In-game
-:-----:|:-----:
-![shop dog character select screen](https://i.imgur.com/pfJ1Jyr.png)|![shop dog in-game](https://i.imgur.com/8YUBysY.png)
+Character Select |  In-game | Chibi
+:-----:|:-----:|:-----:
+![shop dog character select screen](https://i.imgur.com/pfJ1Jyr.png)|![shop dog in-game](https://i.imgur.com/8YUBysY.png)|![shop dog chibi](https://i.imgur.com/fP41Noy.png)
 
 *woof!*
