@@ -36,3 +36,24 @@ Character Select |  In-game
 ![layton character select screen](https://i.imgur.com/0AusXN3.png)|![layton in-game](https://i.imgur.com/D0zqpaa.png)
 
 *From my favourite mystery game then, to my favourite now*
+
+---
+
+#### Shop Dog
+STR | DEX | PER | CHA | KNO | LCK
+:--:|:--: |:--: |:--: |:--: |:--:
+7   |6    |5    |5    |4    |5
+
+<ins>Perks</ins>
+* SKILLED BUTCHER
+* HOUNDED ARTIST
+
+<ins>Starting Bonus</ins>
+* BRANCH
+* DOG TREATS
+
+Character Select |  In-game
+:-----:|:-----:
+![shop dog character select screen](https://i.imgur.com/pfJ1Jyr.png)|![shop dog in-game](https://i.imgur.com/8YUBysY.png)
+
+*woof!*

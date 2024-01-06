@@ -1,0 +1,38 @@
+[character]
+name="DOG"
+author="libus"
+contact="libus"
+strength="7"
+dexterity="6"
+perception="5"
+charisma="5"
+knowledge="4"
+luck="6"
+sprite_icon="char_shopdog\my_icon.png"
+sprite_back="char_shopdog\tarrot_back.png"
+sprite_house="char_shopdog\char_house.png"
+portrait_a="char_shopdog\char_main.png"
+name_a="WOOF"
+menu_tag="--CANINE--#犬"
+menu_desc="Name: STORE DOG#23 / MALE# #WOOF! WOOF WOOF! AWOOOOOOOOOOOO!"
+
+perkpack_a="[SKILLED BUTCHER]"
+perkpack_b="[HOUNDED ARTIST]"
+
+[status]
+low_stamina="char_shopdog\char_lowstamina.png"
+low_reason="char_shopdog\char_lowreason.png"
+ritual_mask="char_shopdog\char_ritualmask.png"
+karukosa_mask="char_shopdog\char_karukosamask.png"
+crestfallen_mask="char_shopdog\char_crestfallenmask.png"
+broken_nose="char_shopdog\char_brokennose.png"
+insmasu_look="char_shopdog\char_insmasulook.png"
+slit_mouth="char_shopdog\char_slitmouth.png"
+hunger="char_shopdog\char_hunger.png"
+cursed_signs="char_shopdog\char_cursedsigns.png"
+
+[starting_bonus]
+type_a="item"
+name_a="BRANCH"
+type_b="item"
+name_b="DOG TREATS"
