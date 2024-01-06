@@ -19,8 +19,6 @@ MAC: ??? i have no idea my bad ???
 ### Characters
 
 #### Professor Layton
-
-<ins>Stats</ins>
 STR | DEX | PER | CHA | KNO | LCK
 :--:|:--: |:--: |:--: |:--: |:--:
 4   |5    |7    |6    |6    |5
@@ -33,8 +31,8 @@ STR | DEX | PER | CHA | KNO | LCK
 * FAME
 * SIGNED CONTRACT
 
-<ins>Images</ins>
 Character Select |  In-game
 :-----:|:-----:
 ![layton character select screen](https://i.imgur.com/0AusXN3.png)|![layton in-game](https://i.imgur.com/D0zqpaa.png)
 
+*From my favourite mystery game then, to my favourite now*
