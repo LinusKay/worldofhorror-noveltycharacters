@@ -1,4 +1,4 @@
-# World of Horror Custom Content
+# World of Horror: Novelty Characters Pack
 
 ![header image](https://cdn.akamai.steamstatic.com/steam/apps/913740/header.jpg?t=1703236730)
 
@@ -15,8 +15,6 @@ Windows: Move the characters folder to `%localappdata%\Local\wohgame`
 MAC: ??? i have no idea my bad ???
 
 ## Content
-
-### Characters
 
 #### Professor Layton
 STR | DEX | PER | CHA | KNO | LCK
